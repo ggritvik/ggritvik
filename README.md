@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggritvik&show_icons=true&theme=highcontrast)
+
 
 
 <h1 align="center">Hi 👋, I'm Ritvik</h1>
@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggritvik&show_icons=true&locale=en&layout=compact" alt="ggritvik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggritvik&show_icons=true&theme=dark&locale=en" alt="ggritvik" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggritvik&show_icons=true&theme=highcontrast)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggritvik&" alt="ggritvik" /></p>
