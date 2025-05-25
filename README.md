@@ -33,5 +33,10 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggritvik&show_icons=true&locale=en&layout=compact" alt="ggritvik" /></p>
 
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggritvik&show_icons=true&theme=highcontrast)
+
+<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggritvik&" alt="ggritvik" /></p>
