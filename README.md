@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 <h1 align="center">Hi 👋, I'm Ritvik</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -26,6 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ritvik-sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritvik-sri" height="30" width="40" /></a>
+<a href="https://discord.gg/not_ritvix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="not_ritvix" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggritvik&show_icons=true&locale=en&layout=compact" alt="ggritvik" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggritvik&show_icons=true&theme=dark&locale=en" alt="ggritvik" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggritvik&" alt="ggritvik" /></p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggritvik&show_icons=true&theme=highcontrast)
