@@ -39,11 +39,6 @@ Here are some ideas to get you started:
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ggritvik.ggritvik&"  />
 </div>
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/ggritvik/count.svg" alt="Visitor's Count" />
-</div>
-
 ###
 
 <h1 align="center">Hey there 👋</h1>
