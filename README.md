@@ -144,11 +144,8 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ggritvik/ggritvik/output/pacman-contribution-graph.svg">
 </picture>
 
-
-<!-- For canvas -->
-<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=ggritvik&platform=github" 
-    width="800" height="600" frameborder="0"></iframe>
 <!-- For SVG -->
 <img src="https://pacman.abozanona.me?username=ggritvik" />
+
 ###
 
