@@ -75,8 +75,4 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ggritvik/ggritvik/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- For SVG -->
-<img src="https://pacman.abozanona.me?username=ggritvik" />
-
 ###
-
