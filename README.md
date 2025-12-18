@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Ritvik from India<br><br>- 🔭 I’m a BTech Student<br>- 📚 I'm currently learning LangChain<br>- ⚡ In my free time I Game 🎮</p>
+<p align="left">I'm Ritvik from India<br><br>- 🔭 I’m a BTech Student<br>- 📚 I'm currently learning LangGraph<br>- ⚡ In my free time I Game 🎮</p>
 
 ###
 
